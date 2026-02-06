@@ -1,5 +1,4 @@
 new_elearning
-=============
 
 New Elearning (LMS) dokumenary
 By     : http://www.dokumenary.my.id
